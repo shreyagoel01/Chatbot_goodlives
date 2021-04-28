@@ -1,1 +1,3 @@
 # Chatbot_goodlives
+The chatbot works best with a google assistant integration. The code in the given files are used for webhook calls for dialogflow messenger which is easily integrated with any
+website. A database stores the requests made for callbacks when user types Contact me, Talk to expert, Request a call back etc. The bot has vast scope for improvement in order to test the chatbot's databse function in google assistant we can enable the inline editor in place of webhook. The rich responses are not visible in web demo. Currently ngrok is being used to get a public url. Knowledge base contains some faqs from the site as well as from other platforms.
