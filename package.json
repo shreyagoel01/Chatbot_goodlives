@@ -1,0 +1,21 @@
+{
+  "name": "goodlives",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "actions-on-google": "2.13.0",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "0.6.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.7.0",
+    "firebase-functions": "^3.13.2",
+    "firebase-tools": "^9.10.0"
+  }
+}
